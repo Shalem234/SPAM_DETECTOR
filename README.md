@@ -1,1 +1,15 @@
 # SPAM_DETECTOR
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : SESHAM SHALEM RAJ
+
+**INTERN ID** : CT6WDPJ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot 2025-01-12 133214](https://github.com/user-attachments/assets/9806f9ff-7b75-4fa8-9456-f01fa23d5502)
